@@ -12,15 +12,7 @@
 
 ## Thông tin nhóm <a name="info"></a>
 
-Lớp: **SE214.N11** \
-Mã nhóm: **4** \
-Thành viên:
-| STT  | Tên                | MSSV      | Ghi chú     |
-|:-----|:-------------------|:----------|:------------|
-|  1   |  Trần Ngọc Tiến | 20520808  |  Trưởng nhóm|
-|  2   |  Lý Hồng Phong    |  20520364 |             |
-|  3   | Nguyễn Đình Thi | 20520771  |             |
-
+Thuẹc hiện: Phạm Văn Long - 2110A05
 [Lên đầu trang](#top)
 ## Đề tài <a name="topic"></a>
 
